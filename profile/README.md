@@ -5,7 +5,7 @@
 
   ### 医疗数据中台解决方案
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   [![GitHub Org](https://img.shields.io/badge/Organization-healthcaredaas-green)](https://github.com/healthcaredaas)
 
 </div>
@@ -184,7 +184,7 @@ pnpm dev:portal
 
 ## 📄 许可证
 
-本项目采用 [Apache License 2.0](LICENSE) 开源许可证。
+本项目采用 [GNU General Public License v3.0](LICENSE) 开源许可证。
 
 ---
 
