@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200x200?text=DataSphere" alt="DataSphere Logo" width="200">
+  <img src="../img/logo.svg" alt="HealthcareDaaS Logo" width="200">
 
   # HealthcareDaaS
 
